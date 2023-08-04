@@ -15,6 +15,7 @@ body {
     color: rgb(50, 42, 42);
     background: rgb(243, 205, 226);
     border-bottom: 8px solid rgb(223, 139, 126);
+    border:2px solid black;
 }
 
 .border-blue {
